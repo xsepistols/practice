@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinAnim", "WinAnim\WinAnim.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zadanie_1", "Zadanie_1", "{04D7D1BB-7649-4F3C-B092-692EBA3C11A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchMethod", "WinAsynchMethod\WinAsynchMethod.csproj", "{3542DD12-95ED-4E49-B802-4DD08BDAAE22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{937ADADD-E0C9-4139-B971-FBA946E77F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{937ADADD-E0C9-4139-B971-FBA946E77F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{937ADADD-E0C9-4139-B971-FBA946E77F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3542DD12-95ED-4E49-B802-4DD08BDAAE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3542DD12-95ED-4E49-B802-4DD08BDAAE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3542DD12-95ED-4E49-B802-4DD08BDAAE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3542DD12-95ED-4E49-B802-4DD08BDAAE22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
