@@ -4,13 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{44A4437E-E1CC-468C-9931-E8675AF9224C}</ProjectGuid>
+    <ProjectGuid>{CED59018-6004-456E-8E87-7F7EE7885EB6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WinAsynchMethodHelpProvider</RootNamespace>
-    <AssemblyName>WinAsynchMethodHelpProvider</AssemblyName>
-    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <RootNamespace>WinAsynchMethod</RootNamespace>
+    <AssemblyName>WinAsynchMethod</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
